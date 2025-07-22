@@ -14,7 +14,7 @@
   <a href="https://hashnode.com">
     <img alt="" src="https://img.shields.io/badge/LICENSE%20%7C%20MIT-000.svg?style=for-the-badge">
   </a>
-  <a href="https://discord.gg/hashnode">
+  <a href="https://discord.gg/qsAQfxX">
     <img alt="" src="https://img.shields.io/badge/Join%20the%20community-black.svg?style=for-the-badge&logo=discord&labelColor=000000&logoWidth=20">
   </a>
 </p>
@@ -25,9 +25,11 @@ Blog Starter Kit lets you instantly deploy a Next.js and Tailwind powered fronte
 
 # Live Demos
 
+Please note: The themes showcased in these demos have been heavily customized.
+
 - [Personal theme](https://starter-diopgk410-hashnode-prod.vercel.app/blog)
 - [Enterprise theme](https://hashnode.com/blog)
-- [Hashnode theme](https://saikrishna.dev/blog)
+- [Hashnode theme](https://datazip.io/blog?utm_source=hashnode&utm_medium=github&utm_campaign=promotional)
 
 # Example company blogs built with Headless
 
@@ -145,7 +147,6 @@ Now that you have deployed the starter kit on your own domain, you need to tell 
 
 <img width="808" alt="enable headless mode" src="https://github.com/user-attachments/assets/e303528b-52a6-4cfe-9ee1-2c88b746ae6d">
 
-
 After enabling, enter your blog URL as shown below and save.
 
 <img width="808" alt="blog base url" src="https://github.com/user-attachments/assets/6ffa606e-2b1e-4bcb-ad67-ae71f74de44d">
@@ -184,11 +185,11 @@ If you prefer to build your frontend from scratch, you can use our public GraphQ
 
 In addition to our core themes, the community has developed a variety of themes to customize your blog. Check out these themes and explore their unique designs:
 
-| Theme Name                    | Demo Link                                          | Codebase Link                                                                 |
-| ----------------------------- | -------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Newsletter Theme**          | [View Demo](https://starter-kit1-6yte.vercel.app/) | [GitHub Repository](https://github.com/masterismail/starter-kit1/tree/main)   |
-| **Minimalist (Ikigai) Theme** | [View Demo](https://pravinreacts.vercel.app/)      | [GitHub Repository](https://github.com/pravintargaryen/starter-kit/tree/main) |
-| **Floaty Portfolio/Blog Theme** | [View Demo](https://floaty-hashnode-headless.vercel.app/)      | [GitHub Repository](https://github.com/iammarmirza/floaty-hashnode-headless/tree/main) |
+| Theme Name                      | Demo Link                                                 | Codebase Link                                                                          |
+| ------------------------------- | --------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| **Newsletter Theme**            | [View Demo](https://starter-kit1-6yte.vercel.app/)        | [GitHub Repository](https://github.com/masterismail/starter-kit1/tree/main)            |
+| **Minimalist (Ikigai) Theme**   | [View Demo](https://pravinreacts.vercel.app/)             | [GitHub Repository](https://github.com/pravintargaryen/starter-kit/tree/main)          |
+| **Floaty Portfolio/Blog Theme** | [View Demo](https://floaty-hashnode-headless.vercel.app/) | [GitHub Repository](https://github.com/iammarmirza/floaty-hashnode-headless/tree/main) |
 
 > Note: These themes are maintained by the community and are not part of the official starter kit.
 
@@ -204,6 +205,6 @@ Feel free to create an [issue](https://github.com/Hashnode/starter-kit/issues) w
 
 ## Reach out for help
 
-You can discuss ideas, ask questions, and meet other members from the Hashnode community in our [Discord](https://discord.gg/hashnode). You can also create tickets on [our intercom](https://hashnode.com/#support) to find support.
+You can discuss ideas, ask questions, and meet other members from the Hashnode community in our [Discord](https://discord.gg/qsAQfxX). You can also create tickets on [our intercom](https://hashnode.com/#support) to find support.
 
 If you like, you can also DM us on [X](https://x.com/hashnode)!
